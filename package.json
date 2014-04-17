@@ -1,0 +1,17 @@
+{
+	"name": "aa-bmq",
+	"description": "a simple bidirectional message queue for Node.js",
+	"version": "0.1.0",
+	"author": "amoa400 <amoa400@163.com>",
+	"keywords": [
+		"aa-bmq",
+		"message queue"
+	],
+	"repository": "https://github.com/amoa400/aa-bmq",
+	"homepage": "http://www.amoa400.com",
+	"dependencies": {
+		"zmq": "2.1.1"
+	},
+	"main": "lib/index.js",
+	"readme": "a simple bidirectional message queue for Node.js\n\nhomepage: https://github.com/amoa400/aa-bmq"
+}
