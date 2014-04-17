@@ -10,7 +10,7 @@
 	"repository": "https://github.com/amoa400/aa-bmq",
 	"homepage": "http://www.amoa400.com",
 	"dependencies": {
-		"zmq": "2.1.1"
+		"zmq": "2.6.0"
 	},
 	"main": "lib/index.js",
 	"readme": "a simple bidirectional message queue for Node.js\n\nhomepage: https://github.com/amoa400/aa-bmq"
