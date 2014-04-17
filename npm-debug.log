@@ -1,0 +1,149 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'c:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'publish' ]
+2 info using npm@1.3.14
+3 info using node@v0.10.22
+4 verbose publish [ '.' ]
+5 verbose cache add [ '.', null ]
+6 verbose cache add name=undefined spec="." args=[".",null]
+7 verbose parsed url { protocol: null,
+7 verbose parsed url   slashes: null,
+7 verbose parsed url   auth: null,
+7 verbose parsed url   host: null,
+7 verbose parsed url   port: null,
+7 verbose parsed url   hostname: null,
+7 verbose parsed url   hash: null,
+7 verbose parsed url   search: null,
+7 verbose parsed url   query: null,
+7 verbose parsed url   pathname: '.',
+7 verbose parsed url   path: '.',
+7 verbose parsed url   href: '.' }
+8 silly lockFile 3a52ce78- .
+9 verbose lock . C:\Users\Amoa400\AppData\Roaming\npm-cache\3a52ce78-.lock
+10 verbose tar pack [ 'C:\\Users\\Amoa400\\AppData\\Local\\Temp\\npm-9996-vCBPSwPB\\1397726927439-0.9455067126546055\\tmp.tgz',
+10 verbose tar pack   '.' ]
+11 verbose tarball C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\tmp.tgz
+12 verbose folder .
+13 info prepublish aa-bmq@0.1.0
+14 silly lockFile 1f1177db-tar tar://.
+15 verbose lock tar://. C:\Users\Amoa400\AppData\Roaming\npm-cache\1f1177db-tar.lock
+16 silly lockFile 69c8ed8b-27439-0-9455067126546055-tmp-tgz tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\tmp.tgz
+17 verbose lock tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\tmp.tgz C:\Users\Amoa400\AppData\Roaming\npm-cache\69c8ed8b-27439-0-9455067126546055-tmp-tgz.lock
+18 silly lockFile 1f1177db-tar tar://.
+19 silly lockFile 1f1177db-tar tar://.
+20 silly lockFile 69c8ed8b-27439-0-9455067126546055-tmp-tgz tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\tmp.tgz
+21 silly lockFile 69c8ed8b-27439-0-9455067126546055-tmp-tgz tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\tmp.tgz
+22 verbose tar unpack C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\tmp.tgz
+23 silly lockFile 1422b412-27439-0-9455067126546055-package tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\package
+24 verbose lock tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\package C:\Users\Amoa400\AppData\Roaming\npm-cache\1422b412-27439-0-9455067126546055-package.lock
+25 silly lockFile 69c8ed8b-27439-0-9455067126546055-tmp-tgz tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\tmp.tgz
+26 verbose lock tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\tmp.tgz C:\Users\Amoa400\AppData\Roaming\npm-cache\69c8ed8b-27439-0-9455067126546055-tmp-tgz.lock
+27 silly gunzTarPerm modes [ '755', '644' ]
+28 silly gunzTarPerm extractEntry package.json
+29 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+30 silly gunzTarPerm extractEntry .npmignore
+31 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
+32 silly gunzTarPerm extractEntry README.md
+33 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+34 silly gunzTarPerm extractEntry test.js
+35 silly gunzTarPerm modified mode [ 'test.js', 438, 420 ]
+36 silly gunzTarPerm extractEntry lib/client.js
+37 silly gunzTarPerm modified mode [ 'lib/client.js', 438, 420 ]
+38 silly gunzTarPerm extractEntry lib/index.js
+39 silly gunzTarPerm modified mode [ 'lib/index.js', 438, 420 ]
+40 silly gunzTarPerm extractEntry lib/message.js
+41 silly gunzTarPerm modified mode [ 'lib/message.js', 438, 420 ]
+42 silly gunzTarPerm extractEntry lib/server.js
+43 silly gunzTarPerm modified mode [ 'lib/server.js', 438, 420 ]
+44 silly lockFile 1422b412-27439-0-9455067126546055-package tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\package
+45 silly lockFile 1422b412-27439-0-9455067126546055-package tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\package
+46 silly lockFile 69c8ed8b-27439-0-9455067126546055-tmp-tgz tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\tmp.tgz
+47 silly lockFile 69c8ed8b-27439-0-9455067126546055-tmp-tgz tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\tmp.tgz
+48 verbose tar pack [ 'C:\\Users\\Amoa400\\AppData\\Roaming\\npm-cache\\aa-bmq\\0.1.0\\package.tgz',
+48 verbose tar pack   'C:\\Users\\Amoa400\\AppData\\Local\\Temp\\npm-9996-vCBPSwPB\\1397726927439-0.9455067126546055\\package' ]
+49 verbose tarball C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz
+50 verbose folder C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\package
+51 silly lockFile 1422b412-27439-0-9455067126546055-package tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\package
+52 verbose lock tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\package C:\Users\Amoa400\AppData\Roaming\npm-cache\1422b412-27439-0-9455067126546055-package.lock
+53 silly lockFile 05162364-m-cache-aa-bmq-0-1-0-package-tgz tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz
+54 verbose lock tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz C:\Users\Amoa400\AppData\Roaming\npm-cache\05162364-m-cache-aa-bmq-0-1-0-package-tgz.lock
+55 silly lockFile 1422b412-27439-0-9455067126546055-package tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\package
+56 silly lockFile 1422b412-27439-0-9455067126546055-package tar://C:\Users\Amoa400\AppData\Local\Temp\npm-9996-vCBPSwPB\1397726927439-0.9455067126546055\package
+57 silly lockFile 05162364-m-cache-aa-bmq-0-1-0-package-tgz tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz
+58 silly lockFile 05162364-m-cache-aa-bmq-0-1-0-package-tgz tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz
+59 silly lockFile a78c373b-g-npm-cache-aa-bmq-0-1-0-package C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package
+60 verbose lock C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package C:\Users\Amoa400\AppData\Roaming\npm-cache\a78c373b-g-npm-cache-aa-bmq-0-1-0-package.lock
+61 silly lockFile a78c373b-g-npm-cache-aa-bmq-0-1-0-package C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package
+62 silly lockFile a78c373b-g-npm-cache-aa-bmq-0-1-0-package C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package
+63 verbose tar unpack C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz
+64 silly lockFile 163c5fd8-g-npm-cache-aa-bmq-0-1-0-package tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package
+65 verbose lock tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package C:\Users\Amoa400\AppData\Roaming\npm-cache\163c5fd8-g-npm-cache-aa-bmq-0-1-0-package.lock
+66 silly lockFile 05162364-m-cache-aa-bmq-0-1-0-package-tgz tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz
+67 verbose lock tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz C:\Users\Amoa400\AppData\Roaming\npm-cache\05162364-m-cache-aa-bmq-0-1-0-package-tgz.lock
+68 silly gunzTarPerm modes [ '755', '644' ]
+69 silly gunzTarPerm extractEntry package.json
+70 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+71 silly gunzTarPerm extractEntry .npmignore
+72 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
+73 silly gunzTarPerm extractEntry README.md
+74 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+75 silly gunzTarPerm extractEntry test.js
+76 silly gunzTarPerm modified mode [ 'test.js', 438, 420 ]
+77 silly gunzTarPerm extractEntry lib/client.js
+78 silly gunzTarPerm modified mode [ 'lib/client.js', 438, 420 ]
+79 silly gunzTarPerm extractEntry lib/index.js
+80 silly gunzTarPerm modified mode [ 'lib/index.js', 438, 420 ]
+81 silly gunzTarPerm extractEntry lib/message.js
+82 silly gunzTarPerm modified mode [ 'lib/message.js', 438, 420 ]
+83 silly gunzTarPerm extractEntry lib/server.js
+84 silly gunzTarPerm modified mode [ 'lib/server.js', 438, 420 ]
+85 silly lockFile 163c5fd8-g-npm-cache-aa-bmq-0-1-0-package tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package
+86 silly lockFile 163c5fd8-g-npm-cache-aa-bmq-0-1-0-package tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package
+87 silly lockFile 05162364-m-cache-aa-bmq-0-1-0-package-tgz tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz
+88 silly lockFile 05162364-m-cache-aa-bmq-0-1-0-package-tgz tar://C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz
+89 verbose chmod C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz 644
+90 silly chown skipping for windows C:\Users\Amoa400\AppData\Roaming\npm-cache\aa-bmq\0.1.0\package.tgz
+91 silly lockFile 3a52ce78- .
+92 silly lockFile 3a52ce78- .
+93 silly publish { name: 'aa-bmq',
+93 silly publish   description: 'a simple bidirectional message queue for Node.js',
+93 silly publish   version: '0.1.0',
+93 silly publish   author: { name: 'amoa400', email: 'amoa400@163.com' },
+93 silly publish   keywords: [ 'aa-bmq', 'message queue' ],
+93 silly publish   repository: { type: 'git', url: 'https://github.com/amoa400/aa-bmq' },
+93 silly publish   homepage: 'http://www.amoa400.com',
+93 silly publish   dependencies: { zmq: '2.6.0' },
+93 silly publish   main: 'lib/index.js',
+93 silly publish   readme: 'a simple bidirectional message queue for Node.js\n\nhomepage: https://github.com/amoa400/aa-bmq',
+93 silly publish   bugs: { url: 'https://github.com/amoa400/aa-bmq/issues' },
+93 silly publish   _id: 'aa-bmq@0.1.0',
+93 silly publish   dist: { shasum: '79610a9141f0f100e935d077529c28b5e6557939' },
+93 silly publish   _from: '.' }
+94 verbose url raw aa-bmq
+95 verbose url resolving [ 'https://registry.npmjs.org/', './aa-bmq' ]
+96 verbose url resolved https://registry.npmjs.org/aa-bmq
+97 info trying registry request attempt 1 at 17:28:47
+98 http PUT https://registry.npmjs.org/aa-bmq
+99 http 201 https://registry.npmjs.org/aa-bmq
+100 verbose url raw aa-bmq
+101 verbose url resolving [ 'https://registry.npmjs.org/', './aa-bmq' ]
+102 verbose url resolved https://registry.npmjs.org/aa-bmq
+103 info trying registry request attempt 1 at 17:28:49
+104 http GET https://registry.npmjs.org/aa-bmq
+105 http 200 https://registry.npmjs.org/aa-bmq
+106 error publish fail Cannot publish over existing version.
+106 error publish fail Update the 'version' field in package.json and try again.
+106 error publish fail
+106 error publish fail If the previous version was published in error, see:
+106 error publish fail     npm help unpublish
+106 error publish fail
+106 error publish fail To automatically increment version numbers, see:
+106 error publish fail     npm help version
+107 error System Windows_NT 6.1.7601
+108 error command "c:\\Program Files\\nodejs\\node.exe" "c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "publish"
+109 error cwd D:\node\aa-bmq
+110 error node -v v0.10.22
+111 error npm -v 1.3.14
+112 error code EPUBLISHCONFLICT
+113 verbose exit [ 1, true ]

@@ -1,7 +1,7 @@
 {
 	"name": "aa-bmq",
 	"description": "a simple bidirectional message queue for Node.js",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": "amoa400 <amoa400@163.com>",
 	"keywords": [
 		"aa-bmq",
